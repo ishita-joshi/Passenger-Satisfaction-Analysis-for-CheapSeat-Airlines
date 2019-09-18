@@ -14,7 +14,7 @@ In order to improve the satisfaction of passengers, this project investigates th
 •	Impact of the arrival delay on airline customer satisfaction
 •	The difference in satisfaction between different types of travelers and airline status
 
-Business question that it tries to solve
+### Business question that it tries to solve
 
 ●	Which demographics of people should we focus on to increase the overall satisfaction?
 ●	Is there any difference between different partner companies in customer satisfaction?
