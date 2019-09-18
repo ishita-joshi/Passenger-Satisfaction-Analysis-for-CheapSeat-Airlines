@@ -23,7 +23,7 @@ In order to improve the satisfaction of passengers, this project investigates th
 ●	How does the arrival delay affect customer satisfaction?
 
 
-##### Conclusion and Recommendation
+##### Conclusion and recommendation
 1)	The company should improve its service for personal travelers. A large proportion of personal travelers are not satisfied with their experiences.
 2)	Whether the arrival time is late for more than 5 minutes is important for customers. Specifically, as an example, while most of the personal travelers are not satisfied, Silver customers who have arrived less than 5 minutes are more likely to be satisfied. Old (more than 65 years old) business travelers or young (less than 23 years old) non-personal travelers are likely to complain about the trip if the arrival is late for more than 5 minutes. If arrival delay cannot be avoided, the airline company should take some other measures to improve customer satisfaction.
 3)	While many of the middle-aged customers are satisfied with the airline’s service, old customers are more likely to report complaints about the service. The company may implement some marketing strategies for old customers to improve their satisfaction.
