@@ -15,6 +15,7 @@ In order to improve the satisfaction of passengers, this project investigates th
 •	The difference in satisfaction between different types of travelers and airline status
 
 Business question that it tries to solve
+
 ●	Which demographics of people should we focus on to increase the overall satisfaction?
 ●	Is there any difference between different partner companies in customer satisfaction?
 ●	Is there a significant difference in customer satisfaction between different groups of age? 
