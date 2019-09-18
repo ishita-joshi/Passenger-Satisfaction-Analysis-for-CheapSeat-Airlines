@@ -1,3 +1,6 @@
+About the dataset
+This dataset contains n=194,833 observations of flight segment data collected by a major airline. Each row represents one flight segment by one airline customer. The dataset captures characteristics of the flight as well as characteristics of the customer. The dataset also contains a simple survey-based rating of each customer’s satisfaction with the flight segment.
+
 # Passenger-Satisfaction-Analysis-for-CheapSeat-Airlines
 Passenger Satisfaction Analysis for CheapSeat Airlines using Linear Regression, Association Rules and SVM.
 Developed methodologies for data cleaning, data wrangling and analyzing the dataset using Linear modeling, Support Vector Machines, and association rules to improve the customer's satisfaction for a particular airline using R programming.
